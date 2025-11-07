@@ -17,7 +17,7 @@ bodyclass: service
       <td class="text-center">著者</td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;">【巻頭言】</td>
+      <td style="white-space: nowrap;"><b>【巻頭言】</b></td>
       <td>会長就任の挨拶</td>
       <td>若林 芳樹</td>
     </tr>
