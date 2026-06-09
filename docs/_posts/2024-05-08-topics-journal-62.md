@@ -13,7 +13,7 @@ tags:
   - 機関誌
 ---
 # 機関誌『地図』62-1が刊行されました
-![機関誌地図62-1](https://jcacj.org/assets/img/topics/journal621.jpg){:.w-100}
+![機関誌地図62-1](/www_develop/assets/img/topics/journal621.jpg){:.w-100}
 {:.main-image}
 
 ## 編集委員より
